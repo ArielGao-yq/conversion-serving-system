@@ -221,3 +221,5 @@ __marimo__/
 data/*
 !data/splits/
 
+# MLflow local tracking database
+mlflow.db
